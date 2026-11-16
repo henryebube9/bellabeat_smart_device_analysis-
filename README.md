@@ -1,6 +1,5 @@
-# bellabeat_smart_device_analysis-
-A data analytics case study examining smart device usage patterns (activity, sleep and heart rate) to guide Bellabeat's product and marketing strategy. Built with spreadsheet. 
 # Bellabeat Smart Device Wellness Case Study
+A data analytics case study examining smart device usage patterns (activity, sleep and heart rate) to guide Bellabeat's product and marketing strategy. Built with spreadsheet. 
 
 ## 1. Executive Summary & Business Task
 Bellabeat, a high-tech manufacturer of health-focused smart products for women, wants to unlock new growth opportunities. **Goal:** Analyze smart device usage data to identify trends in daily activity, sleep, and heart rate, and apply those insights to guide Bellabeat's marketing strategy.
