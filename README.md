@@ -68,7 +68,11 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 * **Sedentary Dominance:** Users spend the vast majority of their tracked time sedentary, directly correlating with lower sleep efficiency and longer sleep latency.
 * ![Total_steps_vs._Total_Calories_Burned](Visuals/Total_steps_vs._Total_Calories_Burned.png)
 * There appears to be a positive relationship between the ***total steps*** and the ***calories burned*** 
----
+---  
+![Sleep_State_Distribution_by_User_Id](Visuals/Sleep_State_Distribution_by_User_Id.png)  
+* Higher percentage of the ***sleep state*** of the users shows they were asleep rather than awake or restless.
+
+* ---
 
 ## 5. Strategic Recommendations
 1. **Smart Inactivity Nudges:** Introduce gentle, timed movement prompts in the Bellabeat app during prolonged sedentary blocks—especially in the late afternoon and evening—to support cardiovascular recovery.
