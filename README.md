@@ -73,6 +73,8 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 * Higher percentage of the ***sleep state*** of the users shows they were asleep rather than awake or restless.
 
 * ---
+![Heart_rate_range_by_user](Visuals/Heart_rate_range_by_user.png)  
+* Users had the same baseline or resting heartrate but with varied peak heartrates
 
 ## 5. Strategic Recommendations
 1. **Smart Inactivity Nudges:** Introduce gentle, timed movement prompts in the Bellabeat app during prolonged sedentary blocks—especially in the late afternoon and evening—to support cardiovascular recovery.
