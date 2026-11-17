@@ -59,12 +59,14 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 * The same chart with ***outliers*** removed, it could be seen that users with slightly elevated sleep latency still got a decent sleep with sleep efficiency above ***85%***
 * ![Impact_of_Total_Sleep_record_on_Sleep_Latency_and_Efficiency](Visuals/Impact_of_Total_Sleep_record_on_Sleep_Latency_and_Efficiency.png)
 * ***Total sleep record*** of ***2*** had the highest sleep latency and the lowest ***Sleep efficiency***. Total sleep record of 3 had almost the same sleep latency as 1 but it has the highest sleep efficiency.
-  ![Impact_of_Total_Sleep_record_on_Sleep_Latency_and_efficiency_1](Visuals/Impact_of_Total_Sleep_record_on_Sleep_Latency_and_efficiency_1.png)
+* ![Impact_of_Total_Sleep_record_on_Sleep_Latency_and_efficiency_1](Visuals/Impact_of_Total_Sleep_record_on_Sleep_Latency_and_efficiency_1.png)
 * With the ***outliers*** removed ***Total sleep record*** of ***3*** had the highest sleep latency and also the highest sleep efficiency.
+
+  ---
+  
 * ![Average_Daily_Sedentary_vs._Active_Minutes_by_User_Id](Visuals/Average_Daily_Sedentary_vs._Active_Minutes_by_User_Id.png)
 * **Sedentary Dominance:** Users spend the vast majority of their tracked time sedentary, directly correlating with lower sleep efficiency and longer sleep latency.
-* **Cardiovascular Strain:** Among the 14 users with heart rate data, individuals with higher sedentary minutes exhibit elevated evening heart rate patterns, signaling suboptimal daily recovery.
-* **Weekend vs. Weekday Shifts:** Activity levels and sleep consistency fluctuate noticeably between workdays and weekends, indicating a need for adaptive user engagement.
+* 
 
 ---
 
