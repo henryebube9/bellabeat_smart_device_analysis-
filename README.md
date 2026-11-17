@@ -52,7 +52,8 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 ---
                                
 * ## 5. Key Findings
-* ![
+* 
+* ![Average_Daily_Sedentary_vs._Active_Minutes_by_User_Id](Visuals/Average_Daily_Sedentary_vs._Active_Minutes_by_User_Id.png)
 * **Sedentary Dominance:** Users spend the vast majority of their tracked time sedentary, directly correlating with lower sleep efficiency and longer sleep latency.
 * **Cardiovascular Strain:** Among the 14 users with heart rate data, individuals with higher sedentary minutes exhibit elevated evening heart rate patterns, signaling suboptimal daily recovery.
 * **Weekend vs. Weekday Shifts:** Activity levels and sleep consistency fluctuate noticeably between workdays and weekends, indicating a need for adaptive user engagement.
