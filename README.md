@@ -28,7 +28,7 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 ---
 ## 4. Data Preparation  
 * **DATA CLEANING:** Checked for duplicate rows, Fixed data types, Checked for missing data.
-* **ANALYSIS:**
+* **ANALYSIS: Calculated columns and Pivots**
 * <ins>Daily activity merged - Calculated</ins>
 * ***Total active minutes*** addition of very, fairly and lightly active minutes
 * ***Ratio of active to sedentary minutes*** total active minutes divided by sedentary minutes
@@ -43,10 +43,15 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 * <ins>Minutes Sleep_merged - Calculated</ins>
 * ***Pivot*** summarized by the percentage of sleep state for each user (1=asleep, 2=restless, 3=awake)
 
-* <ins>Sleep Day_merged - Calculated</ins> (2 variants of each, one with complete data, other with outlier removed)
+* <ins>Sleep Day_merged - Calculated</ins> (2 variants, one with complete data, other with outlier removed)
 * ***Total Sleep Latency*** which is total time awake in bed. (Total time in bed - Total Minutes Asleep)
-                                    
-* ## 4. Key Findings
+* ***Sleep Efficiency*** (Total time asleep divided by the Total time in bed multiplied by 100)
+* ***Pivot 1*** summarized by the average sleep latency and average sleep efficiency for each user
+* ***Pivot 3*** summarized by the average of sleep latency and average sleep against Total sleep record (1,2 and 3 fragments of sleep) 
+
+---
+                               
+* ## 5. Key Findings
 * **Sedentary Dominance:** Users spend the vast majority of their tracked time sedentary, directly correlating with lower sleep efficiency and longer sleep latency.
 * **Cardiovascular Strain:** Among the 14 users with heart rate data, individuals with higher sedentary minutes exhibit elevated evening heart rate patterns, signaling suboptimal daily recovery.
 * **Weekend vs. Weekday Shifts:** Activity levels and sleep consistency fluctuate noticeably between workdays and weekends, indicating a need for adaptive user engagement.
