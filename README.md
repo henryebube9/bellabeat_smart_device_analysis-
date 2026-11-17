@@ -55,6 +55,8 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 * ![Average_Sleep_Latency_(minutes)_vs._Average_Sleep_Efficiency_by_user_Id](Visuals/Average_Sleep_Latency_(minutes)_vs._Average_Sleep_Efficiency_by_user_Id.png)
 * Lesser ***Sleep latency***, which is time spent awake in bed could be seen to cause a higher ***Sleep Efficiency*** and users with high sleep latency had a drop in their sleep efficiency.
 * Last 2 user IDs had a very large sleep latency so they were treated as outliers.
+* ![Average_of_sleep_latency_vs._Average_of_sleep_efficiency](Visuals/Average_of_sleep_latency_vs._Average_of_sleep_efficiency.png)
+* The same chart with ***outliers*** removed, it could be seen that users with slightly elevated sleep latency still got a decent sleep with sleep efficiency above ***85%***
 * 
 * ![Average_Daily_Sedentary_vs._Active_Minutes_by_User_Id](Visuals/Average_Daily_Sedentary_vs._Active_Minutes_by_User_Id.png)
 * **Sedentary Dominance:** Users spend the vast majority of their tracked time sedentary, directly correlating with lower sleep efficiency and longer sleep latency.
