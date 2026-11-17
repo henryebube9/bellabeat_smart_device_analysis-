@@ -66,8 +66,8 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
   
 * ![Average_Daily_Sedentary_vs._Active_Minutes_by_User_Id](Visuals/Average_Daily_Sedentary_vs._Active_Minutes_by_User_Id.png)
 * **Sedentary Dominance:** Users spend the vast majority of their tracked time sedentary, directly correlating with lower sleep efficiency and longer sleep latency.
-* 
-
+* ![Total_steps_vs._Total_Calories_Burned](Visuals/Total_steps_vs._Total_Calories_Burned.png)
+* There appears to be a positive relationship between the ***total steps*** and the ***calories burned*** 
 ---
 
 ## 5. Strategic Recommendations
