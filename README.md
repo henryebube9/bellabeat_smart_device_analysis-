@@ -76,8 +76,9 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 ![Heart_rate_range_by_user](Visuals/Heart_rate_range_by_user.png)  
 * Users had the same baseline or resting heartrate but with varied peak heartrates
 * ![Average_hourly_heart_rate_User_Id_2347167796](Visuals/Average_hourly_heart_rate_User_Id_2347167796.png)
-* ***Average_hourly_heart_rate_User_Id_2347167796*** shows the variation of heart rate for this user which is below ***95BPM*** and it can be attributed to having  a low ***sedentary minutes***
-* 
+* ***Average_hourly_heart_rate_User_Id_2347167796*** shows the variation of heart rate for this user which the peak is below ***95BPM*** and it can be attributed to having  a low **sedentary minutes** from the Daily activity chart
+* ![Average_hourly_heart_rate_User_id_6775888955](Visuals/Average_hourly_heart_rate_User_id_6775888955.png)
+* ***Average_hourly_heart_rate_User_id_6775888955*** shows the variation of the heart rate for this user which the peak is above ***100BPM*** and could be attributed to having a high **sedentary minutes** from the Daily activity chart.  
 
 ## 5. Strategic Recommendations
 1. **Smart Inactivity Nudges:** Introduce gentle, timed movement prompts in the Bellabeat app during prolonged sedentary blocks—especially in the late afternoon and evening—to support cardiovascular recovery.
