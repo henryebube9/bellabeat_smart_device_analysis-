@@ -85,16 +85,16 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 Based on the activity, sleep, and heart rate patterns identified across tracked users, Bellabeat should focus on three high-impact initiatives for the **Leaf tracker and Bellabeat App**:
 
 1. **Position Bellabeat Around Personalized Baselines Rather Than Generic Targets**
-* **Data Insight:** Intraday heart rate patterns differ noticeably across individuals (e.g., User `2347167796` stays below 95 BPM with lower sedentary time, whereas User `6775888955` sustains afternoon peaks above 100 BPM alongside higher sedentary minutes).
+* **Data Insight:** Intraday heart rate patterns differ noticeably across individuals (e.g., User **2347167796** stays below 95 BPM with lower sedentary time, whereas User **6775888955** sustains afternoon peaks above 100 BPM alongside higher sedentary minutes).
 * **Action (Product & Marketing):** Calibrate stress and recovery alerts in the Bellabeat App to each woman’s personal resting baseline rather than a single universal threshold, and highlight *"wellness guidance tailored to your body’s unique rhythm"* across Bellabeat’s digital ad campaigns.
 
 2. **Target Sedentary Working Routines with Micro-Movement Campaigns**
-* **Data Insight:** Sedentary minutes dominate users' days—even among participants who log regular active minutes—while cumulative step counts correlate positively with total calories burned.
+* **Data Insight:** Sedentary minutes dominate users' days even among participants who log regular active minutes—while cumulative step counts correlate positively with total calories burned.
 * **Action (Product & Marketing):** Introduce gentle midday movement nudges in the Bellabeat App during prolonged sitting stretches, and market the Leaf tracker as an effortless daily companion for busy, desk-based professionals looking to turn small movement breaks into measurable wellness wins.
 
 3. **Promote Restorative Sleep Quality & Evening Wind-Down Habits**
 * **Data Insight:** Higher sleep latency corresponds with lower sleep efficiency, while multi-session sleep logs (such as daytime naps or fragmented rest) impact overall sleep latency and efficiency differently than a single consolidated night's sleep.
-* **Action (Product & Marketing):** Separate daytime naps from nighttime sleep scores inside the Bellabeat App, offer guided evening wind-down reminders when sleep latency rises, and center social media and video campaigns around helping women improve sleep efficiency—not just total hours in bed.
+* **Action (Product & Marketing):** Separate daytime naps from nighttime sleep scores inside the Bellabeat App, offer guided evening wind-down reminders when sleep latency rises, and center social media and video campaigns around helping women improve sleep efficiency not just total hours in bed.
 
 
 ---
