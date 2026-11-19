@@ -80,7 +80,7 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 * ![Average_hourly_heart_rate_User_id_6775888955](Visuals/Average_hourly_heart_rate_User_id_6775888955.png)
 * ***Average_hourly_heart_rate_User_id_6775888955*** shows the variation of the heart rate for this user which the peak is above ***100BPM*** and could be attributed to having a high **sedentary minutes** from the Daily activity chart.  
 
-## 6. Top Three Recommendations (Act)
+## 6. Recommendations
 
 Based on the activity, sleep, and heart rate patterns identified across tracked users, Bellabeat should focus on three high-impact initiatives for the **Leaf tracker and Bellabeat App**:
 
