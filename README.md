@@ -99,6 +99,6 @@ Based on the activity, sleep, and heart rate patterns identified across tracked 
 
 ---
 
-## 6. Repository Structure
+## 7. Repository Structure
 * `/data` — Cleaned datasets and summary tables.
 * `/visuals` — Exported charts (Sleep Latency vs. Efficiency, Hourly Heart Rate Trends).
