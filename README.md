@@ -80,10 +80,22 @@ Bellabeat, a high-tech manufacturer of health-focused smart products for women, 
 * ![Average_hourly_heart_rate_User_id_6775888955](Visuals/Average_hourly_heart_rate_User_id_6775888955.png)
 * ***Average_hourly_heart_rate_User_id_6775888955*** shows the variation of the heart rate for this user which the peak is above ***100BPM*** and could be attributed to having a high **sedentary minutes** from the Daily activity chart.  
 
-## 5. Strategic Recommendations
-1. **Smart Inactivity Nudges:** Introduce gentle, timed movement prompts in the Bellabeat app during prolonged sedentary blocks—especially in the late afternoon and evening—to support cardiovascular recovery.
-2. **Guided Wind-Down & Sleep Routines:** Pair sleep latency tracking with personalized evening wind-down reminders to improve overall sleep efficiency.
-3. **Targeted Marketing Campaigns:** Position Bellabeat products (like the Ivy health tracker or Time watch) not just as step counters, but as holistic stress and recovery companions for busy professionals.
+## 5. Top Three Recommendations (Act)
+
+Based on the activity, sleep, and heart rate patterns identified across tracked users, Bellabeat should focus on three high-impact initiatives for the **Leaf tracker and Bellabeat App**:
+
+1. **Position Bellabeat Around Personalized Baselines Rather Than Generic Targets**
+* **Data Insight:** Intraday heart rate patterns differ noticeably across individuals (e.g., User `2347167796` stays below 95 BPM with lower sedentary time, whereas User `6775888955` sustains afternoon peaks above 100 BPM alongside higher sedentary minutes)[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span).
+* **Action (Product & Marketing):** Calibrate stress and recovery alerts in the Bellabeat App to each woman’s personal resting baseline rather than a single universal threshold, and highlight *"wellness guidance tailored to your body’s unique rhythm"* across Bellabeat’s digital ad campaigns[span_8](start_span)[span_8](end_span).
+
+2. **Target Sedentary Working Routines with Micro-Movement Campaigns**
+* **Data Insight:** Sedentary minutes dominate users' days—even among participants who log regular active minutes—while cumulative step counts correlate positively with total calories burned[span_9](start_span)[span_9](end_span)[span_10](start_span)[span_10](end_span).
+* **Action (Product & Marketing):** Introduce gentle midday movement nudges in the Bellabeat App during prolonged sitting stretches, and market the Leaf tracker as an effortless daily companion for busy, desk-based professionals looking to turn small movement breaks into measurable wellness wins[span_11](start_span)[span_11](end_span).
+
+3. **Promote Restorative Sleep Quality & Evening Wind-Down Habits**
+* **Data Insight:** Higher sleep latency corresponds with lower sleep efficiency[span_12](start_span)[span_12](end_span)[span_13](start_span)[span_13](end_span), while multi-session sleep logs (such as daytime naps or fragmented rest) impact overall sleep latency and efficiency differently than a single consolidated night's sleep[span_14](start_span)[span_14](end_span)[span_15](start_span)[span_15](end_span)[span_16](start_span)[span_16](end_span).
+* **Action (Product & Marketing):** Separate daytime naps from nighttime sleep scores inside the Bellabeat App, offer guided evening wind-down reminders when sleep latency rises, and center social media and video campaigns around helping women improve sleep efficiency—not just total hours in bed[span_17](start_span)[span_17](end_span)[span_18](start_span)[span_18](end_span).
+
 
 ---
 
